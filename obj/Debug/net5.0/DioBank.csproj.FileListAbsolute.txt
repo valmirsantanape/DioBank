@@ -1,0 +1,16 @@
+C:\Users\User\Documents\Dio.me\DioBank\obj\Debug\net5.0\DioBank.csprojAssemblyReference.cache
+C:\Users\User\Documents\Dio.me\DioBank\obj\Debug\net5.0\DioBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Dio.me\DioBank\obj\Debug\net5.0\DioBank.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Dio.me\DioBank\obj\Debug\net5.0\DioBank.AssemblyInfo.cs
+C:\Users\User\Documents\Dio.me\DioBank\obj\Debug\net5.0\DioBank.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Dio.me\DioBank\bin\Debug\net5.0\DioBank.exe
+C:\Users\User\Documents\Dio.me\DioBank\bin\Debug\net5.0\DioBank.deps.json
+C:\Users\User\Documents\Dio.me\DioBank\bin\Debug\net5.0\DioBank.runtimeconfig.json
+C:\Users\User\Documents\Dio.me\DioBank\bin\Debug\net5.0\DioBank.runtimeconfig.dev.json
+C:\Users\User\Documents\Dio.me\DioBank\bin\Debug\net5.0\DioBank.dll
+C:\Users\User\Documents\Dio.me\DioBank\bin\Debug\net5.0\ref\DioBank.dll
+C:\Users\User\Documents\Dio.me\DioBank\bin\Debug\net5.0\DioBank.pdb
+C:\Users\User\Documents\Dio.me\DioBank\obj\Debug\net5.0\DioBank.dll
+C:\Users\User\Documents\Dio.me\DioBank\obj\Debug\net5.0\ref\DioBank.dll
+C:\Users\User\Documents\Dio.me\DioBank\obj\Debug\net5.0\DioBank.pdb
+C:\Users\User\Documents\Dio.me\DioBank\obj\Debug\net5.0\DioBank.genruntimeconfig.cache
